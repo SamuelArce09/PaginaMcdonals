@@ -1,0 +1,1 @@
+estos estilos seran ejecutados con sass,Esto es la pagina principal de macdonals tiene un logo tiene un titulo con una descripcion y una imagen y tiene un boton con efecto hover que dice order now y a los ultimo tiene 3 logos
